@@ -1,5 +1,8 @@
 pipeline {
 
+export M2_HOME=/home/nilesh/Programs/maven/apache-maven-3.3.9
+export PATH=$PATH:$M2_HOME/bin
+
 	agent any
 
 	stages {
