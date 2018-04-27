@@ -2,8 +2,21 @@
 pipeline {
 
 	agent any
+	
+	 tools {
+        maven 'MAVEN_HOME' 
+        jdk 'JAVA_HOME'
+    }
 
 	stages {
+	
+	stage('Cheking initialization') {
+            steps {
+                sh 'mvn --version'
+                sh 'java -version'
+            }
+        }
+        
 		
 		stage('Compile Stage') {
 			steps {
