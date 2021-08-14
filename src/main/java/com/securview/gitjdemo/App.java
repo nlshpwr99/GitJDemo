@@ -16,6 +16,6 @@ public class App
     
     private static void newMethod() {
     	System.out.println( "newMethod" );
-
+    	System.out.println( "master updated" );
     }
 }
