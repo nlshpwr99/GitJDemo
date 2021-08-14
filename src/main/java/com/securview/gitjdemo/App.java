@@ -18,5 +18,6 @@ public class App
     	System.out.println( "newMethod" );
     	System.out.println( "master updated" );
     	System.out.println( "master updated2" );
+    	System.out.println( "master updated3" );
     }
 }
