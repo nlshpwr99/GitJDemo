@@ -12,6 +12,7 @@ public class App
         System.out.println( "Hello World 2 !" );
         System.out.println( "Jira - 1" );
         System.out.println( "Jira- 1 - updated11" );
+        System.out.println( "master updated4" );
     }
     
     private static void newMethod() {
