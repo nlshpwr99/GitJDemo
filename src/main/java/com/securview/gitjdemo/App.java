@@ -10,11 +10,12 @@ public class App
     {
         System.out.println( "Hello World 2 !" );
         System.out.println( "new change" );
-
+        System.out.println( "Hello World 22 !" );
     }
     
     private static void newMethod() {
     	System.out.println( "newMethod" );
+    	System.out.println( "newMethod2" );
     	
     }
 }
