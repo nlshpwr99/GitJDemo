@@ -11,9 +11,11 @@ public class App
         System.out.println( "Hello World 2 !" );
         System.out.println( "Hello World 2 !" );
         System.out.println( "Jira - 1" );
+
     }
     
     private static void newMethod() {
     	System.out.println( "newMethod" );
+
     }
 }
