@@ -2,7 +2,7 @@ package com.securview.gitjdemo;
 
 /**
  * Hello world!
- *
+ * This is main class
  */
 public class App 
 {
