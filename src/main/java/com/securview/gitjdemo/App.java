@@ -24,5 +24,7 @@ public class App
     private static void f1() {
     	System.out.println( "f1" );
     }
-    
+    private static void master() {
+    	System.out.println( "master" );
+    }
 }
