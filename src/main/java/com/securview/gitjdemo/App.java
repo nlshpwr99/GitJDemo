@@ -20,7 +20,9 @@ public class App
     	System.out.println( "newMethod" );
         System.out.println( "Hello World 22 !" );
     }
+    //master
     private static void f1() {
     	System.out.println( "f1" );
     }
+    
 }
