@@ -11,6 +11,7 @@ public class Employee {
 	public static void f4() {
 		System.out.println("f4-1");
 		System.out.println("f4-2");
+		System.out.println("f4-3");
 	}
 
 }
