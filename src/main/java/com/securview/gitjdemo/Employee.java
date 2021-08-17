@@ -7,5 +7,10 @@ public class Employee {
 		System.out.println("master-3");
 		System.out.println("master-4");
 	}
+	
+	public static void f4() {
+		System.out.println("f4-1");
+		System.out.println("f4-2");
+	}
 
 }
