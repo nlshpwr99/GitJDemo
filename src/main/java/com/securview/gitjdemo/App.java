@@ -26,5 +26,6 @@ public class App
     }
     private static void master() {
     	System.out.println( "master" );
+    	System.out.println( "b11" );
     }
 }
