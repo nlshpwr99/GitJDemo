@@ -8,6 +8,7 @@ public class Employee {
 		System.out.println("master-4");
 		
 		System.out.println("feature-b1-1");
+		System.out.println("feature-b1-2");
 	}
 
 }
